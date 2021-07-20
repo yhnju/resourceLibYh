@@ -1,0 +1,13 @@
+#all kinds of forks https address
+https://github.com/The-AI-Summer/self-attention-cv
+https://github.com/pemami4911/neural-combinatorial-rl-pytorch
+https://github.com/MichelDeudon/encode-attend-navigate
+https://github.com/pezy/CppPrimer
+https://github.com/mveres01/pytorch-drl4vrp
+https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
+https://github.com/wouterkool/attention-learn-to-route
+https://github.com/aikorea/awesome-rl #强化学习相关资料
+https://github.com/vlazovskiy/route-optimizer-machine-learning  # Route optimization solution which uses evolutionary algorithm with XGBoost model to optimize travel times.
+https://github.com/Guillem96/pointer-nn-pytorch
+https://github.com/qiang-ma/graph-pointer-network
+https://github.com/google/or-tools
