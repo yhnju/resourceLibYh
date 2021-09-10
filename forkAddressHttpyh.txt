@@ -22,3 +22,6 @@ https://github.com/xijunlee/Learning-to-Optimize-Arxiv
 
 2021-08-16
 https://github.com/paulorocosta/learning-2opt-drl
+
+2021-09-10,multiHeadAttention
+https://github.com/pytorch/pytorch/blob/master/torch/nn/functional.py
