@@ -29,3 +29,5 @@ https://github.com/pytorch/pytorch/blob/master/torch/nn/functional.py
 https://github.com/abdullah-al-masud/rl-optimize
 
 https://github.com/isl-org/NPHard
+
+https://github.com/chaitjo/learning-tsp
