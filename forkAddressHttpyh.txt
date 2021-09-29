@@ -27,3 +27,5 @@ https://github.com/paulorocosta/learning-2opt-drl
 https://github.com/pytorch/pytorch/blob/master/torch/nn/functional.py
 
 https://github.com/abdullah-al-masud/rl-optimize
+
+https://github.com/isl-org/NPHard
