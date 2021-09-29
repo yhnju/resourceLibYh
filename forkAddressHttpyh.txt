@@ -31,3 +31,4 @@ https://github.com/abdullah-al-masud/rl-optimize
 https://github.com/isl-org/NPHard
 
 https://github.com/chaitjo/learning-tsp
+https://github.com/juho-lee/set_transformer
