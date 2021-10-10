@@ -1,4 +1,4 @@
-#all kinds of forks https address
+#all kinds of reseach https address
 https://github.com/The-AI-Summer/self-attention-cv
 https://github.com/pemami4911/neural-combinatorial-rl-pytorch
 https://github.com/MichelDeudon/encode-attend-navigate
