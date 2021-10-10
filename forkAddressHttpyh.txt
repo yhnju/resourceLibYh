@@ -34,4 +34,4 @@ https://github.com/chaitjo/learning-tsp
 https://github.com/juho-lee/set_transformer
 #Implementation of ECO-DQN as reported in "Exploratory Combinatorial Optimization with Reinforcement Learning".
 https://github.com/tomdbar/eco-dqn
-
+https://github.com/yining043/TSP-improve
