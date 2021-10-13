@@ -35,3 +35,5 @@ https://github.com/juho-lee/set_transformer
 #Implementation of ECO-DQN as reported in "Exploratory Combinatorial Optimization with Reinforcement Learning".
 https://github.com/tomdbar/eco-dqn
 https://github.com/yining043/TSP-improve
+https://github.com/pytorch/pytorch/blob/d5be67a338f1bb8762c49e4be139689631f71895/aten/src/ATen/native/Embedding.cpp
+
