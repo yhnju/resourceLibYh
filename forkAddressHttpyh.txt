@@ -36,4 +36,5 @@ https://github.com/juho-lee/set_transformer
 https://github.com/tomdbar/eco-dqn
 https://github.com/yining043/TSP-improve
 https://github.com/pytorch/pytorch/blob/d5be67a338f1bb8762c49e4be139689631f71895/aten/src/ATen/native/Embedding.cpp
-
+https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb/ogbg_mol#train
+https://github.com/snap-stanford/ogb/tree/master/examples/lsc/pcqm4m
